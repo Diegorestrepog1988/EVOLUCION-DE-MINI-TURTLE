@@ -1,0 +1,39 @@
+reto4
+
+# reto 4
+# girar y dibujar usando solo print() e input()
+
+print("simulación de la tortuga dibujando escalones  \n")
+
+#escalon 1
+print("escalón 1")
+input("presiona ENTER para avanzar 5 ...")
+print("----- ►")
+
+input("presiona ENTER para bajar 2 ...")
+print("     |")
+print("     ↓")
+
+print("\n dibujo terminado. ")
+
+#escalon 2
+print("escalón 2")
+input("presiona ENTER para avanzar 5 ...")
+print("----- ►")
+
+input("presiona ENTER para bajar 2 ...")
+print("     |")
+print("     ↓")
+
+print("\n dibujo terminado. ")
+
+#erscalon 3
+print("escalón 3")
+input("presiona ENTER para avanzar 5 ...")
+print("----- ►")
+
+input("presiona ENTER para bajar 2 ...")
+print("     |")
+print("     ↓")
+
+print("\n dibujo terminado. ")
