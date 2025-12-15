@@ -1,0 +1,14 @@
+reto2
+
+# reto 2
+# simula  la tortuga bajando usando solo print() e input()
+
+print("simulación de una tortuga bajando: ")
+
+pasos= 10 #cantidad de pasos hacia abajo
+input("presiona ENTER para bajar la tortuga")
+
+for i in range(pasos):
+    print ("|")
+
+print("↓") # flecha indicando la dirección hacia abajo
