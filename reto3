@@ -1,0 +1,17 @@
+reto3
+
+# reto 3
+# tortuga avanzando hacia adelante y luego hacia abajo
+
+print("simulación de tortuga :\n")
+
+# tramo horizontal
+input("presiona Enter para avanzar 50 unidades hacia la derecha...")
+print("-" * 49 + "►")  # representa la tortuga al final de su avance horizontal
+
+# tramo vertical
+input("presiona ENTER para avanzar 10 unidades hacia abajo...")
+for i in range(9):
+    print(" "* 49 + "|")
+print(" "* 49 + "↓")  # representa la tortuga al final de su descenso
+print("\n¡La tortuga ha llegado a su destino!")
